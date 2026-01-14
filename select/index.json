@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぶどうじゅーす",
+  "base_artist": "aiko",
+  "createdAt": "2026-01-14T02:21:30.301874Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぶどうじゅーす",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/pl_01_ぶどうじゅーす_aiko.txt"
+    }
+  ]
+}
